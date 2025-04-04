@@ -1,4 +1,4 @@
-## Bienvenido a mi perfil 👋
+## Bienvenido, pasando el tiempo 👋
 
 <!--
 **sr-figueroa/sr-figueroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
